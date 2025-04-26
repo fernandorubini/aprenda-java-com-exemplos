@@ -1,7 +1,7 @@
 ﻿# Aprenda Java Com Exemplos: Desafio de Projeto (Lab)
 
 ![Status](https://img.shields.io/badge/status-finalizado-yellow)
-![Java-17](https://img.shields.io/badge/language-Java-17-blue)
+![Java](https://img.shields.io/badge/language-Java17-blue)
 ![Atualizado](https://img.shields.io/badge/Atualizado-2025-brightgreen)
 
 Projeto originalmente desenvolvido em 2022 e **atualizado em 2025** para fins de currículo, estudo e prática de programação orientada a objetos com Java.
